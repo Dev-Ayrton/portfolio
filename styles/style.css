@@ -142,6 +142,10 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .fotoAyrton {
+        width: 50%;
+    }
 }
 
 
